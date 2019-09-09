@@ -1,0 +1,61 @@
+h2 {
+    text-align: center;
+    align-items: center
+}
+
+h4 {
+    font-family: Far From Homecoming;
+    font-size: 45px;
+    color: #010716e3;
+    text-align: center;
+}
+
+img {
+    width: 800px;
+    height: 280px;
+    border-radius: 10px;
+}
+
+.icon {
+    width: 180px;
+    height: 180px;
+    border-radius: 10px;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.capa {
+    margin: 8px;
+    font-family: Times New Roman;
+    font-size: 15px;
+    color: #010716e3;
+}
+
+.icon:hover {
+    filter: grayscale(100%);
+    -webkit-filter: grayscale(100%);
+    width: 170px;
+    height: 170px;
+    border-radius: 10px;
+}
+
+a {
+    font-family: Times New Roman;
+    font-size: 0, 80cm;
+    text-decoration: none;
+    color: #010716e3;
+}
+
+a:hover {
+    color: rgba(128, 128, 128, 0.644);
+    font-size: 12px;
+    font-weight: bolder;
+}
+
+body {
+    background-color: rgba(15, 63, 126, 0.808);
+}
